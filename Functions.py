@@ -1,0 +1,10 @@
+def countFood():
+    a = int(input())
+    b = int(input())
+    print("Сумма равна ",a+b)
+print("Сколько бананов и ананасов?")
+countFood()
+print("Сколько яблок и киви?")
+countFood()
+print("Сколько булок хлеба и курочки?")
+countFood()
